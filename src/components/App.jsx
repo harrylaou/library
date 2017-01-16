@@ -36,8 +36,8 @@ class App extends React.Component {
     const { books, filters, menu } = this.state
 
     const tabItems = filters.map(filter => (
-      <li key={ filter.category } onClick={ this.selectTab.bind(null, filter.category) }>
-        <a className={ filter.selected? 'active': '' } href="#0">{ filter.category }</a>
+      <li className={ filter.selected? 'active': '' } key={ filter.category } onClick={ this.selectTab.bind(null, filter.category) }>
+        <a href="#0">{ filter.category }</a>
       </li>
     ))
 
