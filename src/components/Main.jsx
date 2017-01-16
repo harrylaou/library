@@ -6,13 +6,17 @@ import books from '../mocks/books'
 class Main extends Component {
   constructor () {
     super()
+    this.selectTab = this.selectTab.bind(this)
+    this.closeSideBar = this.closeSideBar.bind(this)
+    this.openSideBar = this.openSideBar.bind(this)
+    this.search = this.search.bind(this)
     this.state = {
       books,
       filters,
     }
   }
 
-  selectTab = ( category ) => {
+  selectTab ( category ) {
     this.setState({
       filters: filters.map(filter => {
         filter.selected = filter.category === category
@@ -22,19 +26,19 @@ class Main extends Component {
     })
   }
 
-  closeSideBar = () => {
+  closeSideBar () {
     this.setState({
       navClosed: false
     })
   }
 
-  openSideBar = () => {
+  openSideBar () {
     this.setState({
       navClosed: true
     })
   }
 
-  search = (input) => {
+  search (input) {
     console.log(input.target.value)
   }
 
@@ -89,3 +93,4 @@ class Main extends Component {
 }
 
 export default Main
+
