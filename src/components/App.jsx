@@ -1,8 +1,7 @@
 import React from 'react'
 
 import Nav from './Navigations/Nav'
-import SideMenu from './Navigations/SideMenu'
-import SideMenuItem from './Navigations/SideMenuItem'
+import Menu from './Navigations/Menu'
 import Header from './Header'
 
 import filters from '../mocks/filters'
@@ -46,28 +45,11 @@ class App extends React.Component {
     return (
       <div id="page-wrap">
 
-        <SideMenu
-           isOpen={ menu.open }
-           toggleMenu={ this.toggleMenu }
-        >
-          <h4>
-            Next Courses
-          </h4>
-          <SideMenuItem link="https://reactjs.academy/react-redux-training-paris">Paris</SideMenuItem>
-          <SideMenuItem link="https://reactjs.academy/react-redux-training-london">London</SideMenuItem>
-          <SideMenuItem link="https://reactjs.academy/react-redux-training-berlin">Berlin</SideMenuItem>
-          <SideMenuItem link="https://reactjs.academy/react-redux-training-amsterdam">Amsterdam</SideMenuItem>
-          <SideMenuItem link="https://reactjs.academy/react-redux-training-brussels">Brussels</SideMenuItem>
-          <a href="https://reactjs.academy/react-redux-training-london" target="_blank">
-            <img className="img-responsive" src="/public/img/discount-code.png" />
-          </a>
-          <p className="text-center">
-            <strong>20%</strong> of discount for those who join the waiting for Paris today!
-          </p>
-          <a className="text-center" href="https://reactjs.academy/react-redux-training-paris" target="_blank">
-            ReactJS Academy
-          </a>
-        </SideMenu>
+        <Menu
+          pageWrapId="page-wrap"
+          isOpen={ menu.open }
+          toggleMenu={ this.toggleMenu }
+        />
 
         <nav className="navbar navbar-default navbar-fixed-top navbar-custom">
             <div className="container">
