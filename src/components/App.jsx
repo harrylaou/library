@@ -1,6 +1,5 @@
 import React from 'react'
 
-import Nav from './Navigations/Nav'
 import Menu from './Navigations/Menu'
 import Header from './Header'
 
