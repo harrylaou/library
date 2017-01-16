@@ -86,7 +86,13 @@ class App extends React.Component {
               </div>
             </div>
             <div className="row book-list">
-              { books.map( book => ( <div className="col-sm-3" key={ book.title }><img className="img-responsive" src={ book.cover }/></div> )) }
+              { books.map( book => (
+                <div className="col-xs-6 col-sm-3" key={ book.title }>
+                  <div className="thumbnail">
+                    <img className="img-responsive" src={ book.cover }/>
+                  </div>
+                </div>
+              )) }
             </div>
           </div>
         </section>
