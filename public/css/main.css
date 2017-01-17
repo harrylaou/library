@@ -478,12 +478,22 @@ fieldset[disabled] .btn-success.active {
 /* Wrapper for item list */
 .bm-item-list {
   color: #b8b7ad;
+  padding-top: 60px;
+}
+
+#page-wrap > div:first-child {
+  position: absolute;
+  height: 100%;
+  z-index: 1000;
+  top: 0;
 }
 
 /* Styling of overlay */
 .bm-overlay {
   background: rgba(0, 0, 0, 0.3);
+  position: absolute !important;
 }
+
 
 .bm-burger-button {
   display: none;

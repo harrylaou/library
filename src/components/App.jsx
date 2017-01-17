@@ -107,10 +107,10 @@ class App extends React.Component {
                 </div>
                 <div className="row">
                     <div className="col-lg-4 col-lg-offset-2">
-                        <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+                        <p>ReactJS is a library for building UI in a <strong style={{textDecoration: 'underline'}}>declarative way</strong>. This web site will help you understand the fundamental piece of ReactJS, components. You'll learn how to break an app in components (AKA componentization) and flow data accross them.</p>
                     </div>
                     <div className="col-lg-4">
-                        <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
+                        <p>This ReactJS web site works, but it's not well implemented. The problem, the developer didn't think in React and there aren't many components. We challenge you to fork the repo an componentizise the app to unleash the power of ReactJS.</p>
                     </div>
                     <div className="col-lg-8 col-lg-offset-2 text-center">
                         <a target="_blank" href="https://github.com/reactjs-academy/library" className="btn btn-lg btn-outline">

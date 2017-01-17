@@ -3,6 +3,8 @@ import React from 'react'
 import SideMenu from './Menus/SideMenu'
 import SideMenuItem from './Menus/SideMenuItem'
 
+
+
 const Menu = ({ isOpen, pageWrapId, toggleMenu}) => (
   <SideMenu
      isOpen={ isOpen }
