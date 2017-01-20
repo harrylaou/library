@@ -11,7 +11,7 @@ class App extends React.Component {
     super()
     this.toggleMenu = this.toggleMenu.bind(this)
     this.state = {
-      menu: { open : false }
+      menu: { open : true }
     }
   }
 
