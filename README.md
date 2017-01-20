@@ -1,8 +1,5 @@
-## ReactJS Fundamentals - Library
+## ReactJS Fundamentals - Thinking in React
 
-Be nice to people, share love(code) here: [Codeshare](https://codeshare.io/nxqBd)
-
-## Goal
 The goal of this exercise is to learn how to think in React. There are thousands of tutorials online but there's no better way to learn than hacking it yourself.
 
 ## Requirements
