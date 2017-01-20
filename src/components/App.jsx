@@ -22,12 +22,10 @@ class App extends React.Component {
   render() {
     const { menu } = this.state
 
-    /**
-    
+    {/**
       DO YOU WAN TO LEARN MORE? REPLACE THE HTML INSIDE THE FOLLOWING COMPONENTS
       WITH https://react-bootstrap.github.io/components.html#page-layout
-
-    */
+    */}
 
     return (
       <div id="page-wrap">
