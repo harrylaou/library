@@ -4,11 +4,11 @@ import Header from './Header'
 import Navbar from './Navigations/Navbar'
 import About from './About'
 import Footer from './Footer'
+import Books from './Books'
 
 class App extends React.Component {
   constructor () {
     super()
-    this.selectTab = this.selectTab.bind(this)
     this.toggleMenu = this.toggleMenu.bind(this)
     this.state = {
       menu: { open : false }
