@@ -1,14 +1,11 @@
 import React from 'react'
-
 import SideMenu from './Menus/SideMenu'
 import SideMenuItem from './Menus/SideMenuItem'
 
-
-
-const Menu = ({ isOpen, pageWrapId, toggleMenu}) => (
+const Menu = ({ isOpen, pageWrapId, toggleMenu }) => (
   <SideMenu
-     isOpen={ isOpen }
-     toggleMenu={ toggleMenu }
+     isOpen={isOpen}
+     toggleMenu={toggleMenu}
   >
     <h4>
       Next Courses
@@ -29,5 +26,11 @@ const Menu = ({ isOpen, pageWrapId, toggleMenu}) => (
     </a>
   </SideMenu>
 )
+
+Menu.propTypes = {
+  isOpen: React.PropTypes.bool,
+  pageWrapId: React.PropTypes.string,
+  toggleMenu: React.PropTypes.func
+}
 
 export default Menu
