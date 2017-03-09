@@ -7,14 +7,14 @@ You need to be comfortable writing JavaScript (ES6: Module system, class, destru
 You need to have `node`and `npm`installed in your computer.
 
 ## Technologies
-The focus will be given to React but to create a simple workflow, we will need few tools (JS fatigue):
+The focus will be given to React but to create a simple workflow, we will need a few tools (JS fatigue):
 - Webpack
 - Babel-loader
 - Jsx support
 - Live reloading (Live-server)
 
-Oh no, you won't need that! We promise you React on the menu so let's focus on React!!
-We add everything you need so you don't need to know anything about it unless you're very curious.
+Oh no, you won't need that! We promised you React on the menu so let's focus on React!!
+We've added everything you need so you don't need to know anything about it unless you're very curious.
 Just run `npm start`and you'll be good to go.
 
 ## Getting started:
@@ -27,8 +27,8 @@ An example of the application is available [here](http://library.reactjs.academy
 ## Things to know about React
 
 - Everything is a component
-- Component in React are pure function
-- Container components vs presentation components
+- Components in React are pure functions
+- Container components vs presentational components
 - Props vs State
 
 ## What's next?
