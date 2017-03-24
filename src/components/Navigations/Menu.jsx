@@ -18,15 +18,6 @@ const Menu = ({ isOpen, pageWrapId, toggleMenu}) => (
     <SideMenuItem link="https://reactjs.academy/react-redux-training-berlin">Berlin</SideMenuItem>
     <SideMenuItem link="https://reactjs.academy/react-redux-training-amsterdam">Amsterdam</SideMenuItem>
     <SideMenuItem link="https://reactjs.academy/react-redux-training-brussels">Brussels</SideMenuItem>
-    <a href="https://reactjs.academy/react-redux-training-london" target="_blank">
-      <img className="img-responsive" src="/public/img/discount-code.png" />
-    </a>
-    <p className="text-center">
-      <strong>20%</strong> of discount for those who join the waiting for Paris today!
-    </p>
-    <a className="text-center" href="https://reactjs.academy/react-redux-training-paris" target="_blank">
-      ReactJS Academy
-    </a>
   </SideMenu>
 )
 
