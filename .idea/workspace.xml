@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eba9e129-32c8-4983-9220-bb521976bd39" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/App.jsx" afterPath="$PROJECT_DIR$/src/components/App.jsx" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="896" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../blockchain/dummywebshop" value="1478977173000" />
+        <entry key="$PROJECT_DIR$/../../../libraries/finch" value="1482412990000" />
+        <entry key="$PROJECT_DIR$/../../../libraries/make-your-programs-free" value="1474027266000" />
+        <entry key="$PROJECT_DIR$/../../../libraries/play-basic-authentication-filter" value="1488186785000" />
+        <entry key="$PROJECT_DIR$/../../../libraries/scala-java8-compat" value="1471259697000" />
+        <entry key="$PROJECT_DIR$/../../../libraries/silhouette/play-silhouette-4.0-credentials-seed" value="1484489200000" />
+        <entry key="$PROJECT_DIR$/../../../libraries/silhouette/play-silhouette-seed" value="1472494152000" />
+        <entry key="$PROJECT_DIR$/../../../libraries/silhouette/silhouette-rest-seed" value="1476011770000" />
+        <entry key="$PROJECT_DIR$/../../../libraries/slack-scala-client" value="1471728171000" />
+        <entry key="$PROJECT_DIR$/../../../scala/advanced-fp-in-scala" value="1473179245000" />
+        <entry key="$PROJECT_DIR$/../../../scala/basementcrowd-evaluation" value="1480592357000" />
+        <entry key="$PROJECT_DIR$/../../../scala/cotiviti" value="1475490913000" />
+        <entry key="$PROJECT_DIR$/../../../scala/primotus-tech-evaluation/primotus-play" value="1476868329000" />
+        <entry key="$PROJECT_DIR$/../../../scala/primotus-tech-evaluation/primotus-scala" value="1476867883000" />
+        <entry key="$PROJECT_DIR$/../../../scala/quantemplate-evaluation" value="1480065679000" />
+        <entry key="$PROJECT_DIR$/../../../scala/shapeless-guide-code" value="1473683510000" />
+        <entry key="$PROJECT_DIR$/../../../scala/technical-interviews/schibsted" value="1490121187000" />
+        <entry key="$PROJECT_DIR$/../../../scala/toptal-evaluation" value="1480583344000" />
+        <entry key="$PROJECT_DIR$/../../../simplybook/car-rental" value="1472423774000" />
+        <entry key="$PROJECT_DIR$/../../../simplybook/scabot" value="1471729154000" />
+        <entry key="$PROJECT_DIR$/../../../../pioneer/advanced-scala-code" value="1449566056000" />
+        <entry key="$PROJECT_DIR$/../../../../pioneer/carrental" value="1442276811000" />
+        <entry key="$PROJECT_DIR$/../../../../pioneer/fitaborate" value="1455461899000" />
+        <entry key="$PROJECT_DIR$/../../../../pioneer/flatten/basics" value="1465302514000" />
+        <entry key="$PROJECT_DIR$/../../../../pioneer/flatten/play-specific" value="1465302514000" />
+        <entry key="$PROJECT_DIR$/../../../../pioneer/kaltura-client" value="1443261657000" />
+        <entry key="$PROJECT_DIR$/../../../../pioneer/mermigx/play-2.5-skeleton-compile-time-injection" value="1466689783000" />
+        <entry key="$PROJECT_DIR$/../../../../pioneer/play-silhouette-postgres-async-seed" value="1455476249000" />
+        <entry key="$PROJECT_DIR$/../../../../pioneer/scala/fast-track-akka-scala" value="1456345056000" />
+        <entry key="$PROJECT_DIR$/../../../../pioneer/stalkerupdater" value="1444587158000" />
+        <entry key="$PROJECT_DIR$/../../../../pioneer/sudoku" value="1464907444000" />
+        <entry key="$PROJECT_DIR$/../../../../pioneer/tools/play-plugins" value="1465422204000" />
+        <entry key="$PROJECT_DIR$/../../../../pioneer/tools/play-skeleton" value="1468670207000" />
+        <entry key="$PROJECT_DIR$/../../../../pioneer/tools/scala-skeleton" value="1465421626000" />
+        <entry key="$USER_HOME$/Downloads/play2.5-skeleton-compileDI-master" value="1475155875000" />
+        <entry key="$USER_HOME$/workspace/akka-sample-fsm-scala" value="1461409140000" />
+        <entry key="$USER_HOME$/workspace/akka-training/AAS-advanced-akka-scala" value="4457813664000" />
+        <entry key="$USER_HOME$/workspace/cwc-adapter-bwb" value="1445613295000" />
+        <entry key="$USER_HOME$/workspace/cwc-adapter-cat" value="1441363963000" />
+        <entry key="$USER_HOME$/workspace/cwc-adapter-oep" value="1450258100000" />
+        <entry key="$USER_HOME$/workspace/cwc-common" value="1442567724000" />
+        <entry key="$USER_HOME$/workspace/cwc-hulk-transform" value="1441790198000" />
+        <entry key="$USER_HOME$/workspace/cwc-iws" value="1451983342000" />
+        <entry key="$USER_HOME$/workspace/cwc-orchestration" value="1441374754000" />
+        <entry key="$USER_HOME$/workspace/cwc-reception" value="1441374786000" />
+        <entry key="$USER_HOME$/workspace/cwc-testset" value="1441796355000" />
+        <entry key="$USER_HOME$/workspace/cwc-zip-importer" value="1441615251000" />
+        <entry key="$USER_HOME$/workspace/cwc-zip-uploader" value="1451468924000" />
+        <entry key="$USER_HOME$/workspace/featherbed" value="2913702490000" />
+        <entry key="$USER_HOME$/workspace/flatten/basics" value="1461919893000" />
+        <entry key="$USER_HOME$/workspace/fun-cqrs" value="1460115357000" />
+        <entry key="$USER_HOME$/workspace/ing/AOA-finch" value="1482237154000" />
+        <entry key="$USER_HOME$/workspace/ing/ChannelHopMeans" value="1471250496000" />
+        <entry key="$USER_HOME$/workspace/ing/ChannelHopMeansAPI" value="1474871887000" />
+        <entry key="$USER_HOME$/workspace/ing/ConsentOrchestrationAPI" value="1472048390000" />
+        <entry key="$USER_HOME$/workspace/ing/RateLimiter" value="1461922243000" />
+        <entry key="$USER_HOME$/workspace/ing/authentication-orchestration-api" value="1459402405000" />
+        <entry key="$USER_HOME$/workspace/ing/consent-orchestration-api" value="1472031597000" />
+        <entry key="$USER_HOME$/workspace/ing/finch-sample" value="1482326232000" />
+        <entry key="$USER_HOME$/workspace/ing/ing-elf" value="1455874416000" />
+        <entry key="$USER_HOME$/workspace/ing/ing-ent" value="1456210162000" />
+        <entry key="$USER_HOME$/workspace/ing/ing-experiments/apitrust-vs-ssl-benchmarks/benchmark" value="1457946683000" />
+        <entry key="$USER_HOME$/workspace/ing/ing-experiments/apitrust-vs-ssl-benchmarks/server" value="1457946683000" />
+        <entry key="$USER_HOME$/workspace/ing/ing-experiments/cassandra-experiment/cassandra-phantom" value="1459235635000" />
+        <entry key="$USER_HOME$/workspace/ing/ing-experiments/cassandra-experiment/ing-cassandra" value="1459231196000" />
+        <entry key="$USER_HOME$/workspace/ing/ing-experiments/cassandra-experiment/ing-cassandra2" value="1459248458000" />
+        <entry key="$USER_HOME$/workspace/ing/ing-experiments/pinning-vs-cert/cert-auth" value="1458548169000" />
+        <entry key="$USER_HOME$/workspace/ing/ing-experiments/pinning-vs-cert/client" value="1458561851000" />
+        <entry key="$USER_HOME$/workspace/ing/ing-experiments/pinning-vs-cert/pinning" value="1458548169000" />
+        <entry key="$USER_HOME$/workspace/ing/ing-orc" value="1456210728000" />
+        <entry key="$USER_HOME$/workspace/ing/ing-orc-finch" value="1456830091000" />
+        <entry key="$USER_HOME$/workspace/ing/kafkaConsumer" value="1469014991000" />
+        <entry key="$USER_HOME$/workspace/ing/phantom-activator-template" value="1459234832000" />
+        <entry key="$USER_HOME$/workspace/ing/play-swagger-service" value="1460106551000" />
+        <entry key="$USER_HOME$/workspace/ing/playing" value="1463559360000" />
+        <entry key="$USER_HOME$/workspace/ing/testing-akka-fizz-buzz" value="1462350779000" />
+        <entry key="$USER_HOME$/workspace/lunabot2" value="1454939034000" />
+        <entry key="$USER_HOME$/workspace/lunatech-website-2016" value="1469551251000" />
+        <entry key="$USER_HOME$/workspace/noon/logistic-adapter" value="1487747772000" />
+        <entry key="$USER_HOME$/workspace/noon/noon-ar" value="1485603791000" />
+        <entry key="$USER_HOME$/workspace/noon/offer-management" value="1485600985000" />
+        <entry key="$USER_HOME$/workspace/noon/oracle-finance-adapter" value="1487752978000" />
+        <entry key="$USER_HOME$/workspace/noon/ph-affiliate" value="1485355599000" />
+        <entry key="$USER_HOME$/workspace/noon/wsdl-demo" value="1487748839000" />
+        <entry key="$USER_HOME$/workspace/noon/wsdl-example" value="1487750880000" />
+        <entry key="$USER_HOME$/workspace/proximio/mongodemo" value="1468671081000" />
+        <entry key="$USER_HOME$/workspace/proximioProjects/proximio" value="1469307523000" />
+        <entry key="$USER_HOME$/workspace/recruitement/beloglazov" value="1483547827000" />
+        <entry key="$USER_HOME$/workspace/recruitement/cristianprevedello" value="5936563976000" />
+        <entry key="$USER_HOME$/workspace/recruitement/fedorov/scala-web-project" value="1483556132000" />
+        <entry key="$USER_HOME$/workspace/recruitement/jacquescharles" value="1469562494000" />
+        <entry key="$USER_HOME$/workspace/recruitement/marcos" value="1482318672000" />
+        <entry key="$USER_HOME$/workspace/recruitement/random-repo" value="1468255768000" />
+        <entry key="$USER_HOME$/workspace/testpdf" value="1441724785000" />
+        <entry key="$USER_HOME$/workspace/ups/kate-reporting" value="1487258099000" />
+        <entry key="$USER_HOME$/workspace/vcsplus-athena" value="1454407440000" />
+        <entry key="$USER_HOME$/workspace/vcsplus-frontend" value="1455031289000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="896" extended-state="6" />
+    <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
